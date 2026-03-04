@@ -1,0 +1,12 @@
+[tool.poetry]
+name = "analytics-service"
+version = "0.1.0"
+description = "Analytics microservice"
+authors = ["test <test@test.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
