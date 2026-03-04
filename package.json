@@ -2,5 +2,9 @@
   "name": "analytics-service",
   "version": "1.0.0",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "express": "4.16.0",
+    "minimist": "0.0.8",
+    "node-fetch": "2.6.0"
+  }
 }
